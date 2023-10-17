@@ -1,6 +1,6 @@
 {
-    "name": "web_test",
-    "short_name": "web_test",
+    "name": "web_show_data",
+    "short_name": "web_show_data",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
