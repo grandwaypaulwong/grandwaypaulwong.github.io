@@ -1,6 +1,6 @@
 {
-    "name": "web_show_data",
-    "short_name": "web_show_data",
+    "name": "noc_web",
+    "short_name": "noc_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
