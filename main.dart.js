@@ -18568,7 +18568,7 @@ a8E(a){var s=J.ao(a),r=s.i(a,"mac"),q=s.i(a,"ver"),p=s.i(a,"systolic"),o=s.i(a,"
 return new A.fU(r,q,m,s.i(a,"cmd"),p,o,n,l,k,j,i)},
 a4h(b9){var s=0,r=A.a_(t.H),q=1,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8
 var $async$a4h=A.a0(function(c0,c1){if(c0===1){p=c1
-s=q}while(true)switch(s){case 0:b4=A.lR("http://34.226.133.123:1880/getProfile")
+s=q}while(true)switch(s){case 0:b4=A.lR("https://kl0uqp34k1.execute-api.us-west-2.amazonaws.com/my-api-test")
 b5=t.N
 b6=A.au(["Content-type","application/json"],b5,b5)
 b7='{"uuid": "'+b9+'"}'
